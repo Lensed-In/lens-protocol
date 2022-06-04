@@ -1,0 +1,12 @@
+{   "version":"0.1.0",
+    "id": "1",
+    "title": "Hack at Google",
+    "imageURI": null,
+    "applicants": "0x92561F28Ec438Ee9831D00D1D59fbDC981b762b2",
+    "applicantsLimit": "2",
+    "organization": "Organization",
+    "description": "Come work with us. We are Web2. We are Legacy",
+    "createdAt": "1642434600",
+    "lastUpdatedAt": "1654326000",
+    "isClosed": true
+}
