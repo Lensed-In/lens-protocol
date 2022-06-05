@@ -1,0 +1,14 @@
+{   "version":"0.1.0",
+    "id": "5",
+    "title": "Hiring Coordinator",
+    "imageURI": null,
+    "employer": "0x92561f28ec438ee9831d00d1d59fbdc981b762b2",
+    "applicantsLimit": "1",
+    "organization": "Ethereum Foundation",
+    "description": "Hello Ethereum maxi. Your mission will be to find great people for the community of teams and projects within the Ethereum Foundation.",
+    "createdAt": "1642434600",
+    "lastUpdatedAt": "1654326000",
+    "isClosed": false,
+    "location": "Remote",
+    "salary":"100 ETH"
+}

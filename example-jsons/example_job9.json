@@ -1,0 +1,14 @@
+{   "version":"0.1.0",
+    "id": "9",
+    "title": "Lead of Operations",
+    "imageURI": null,
+    "employer": "0xad9fbd38281f615e7df3def2aad18935a9e0ffee",
+    "applicantsLimit": "2",
+    "organization": "DAO",
+    "description": "We are looking for an operations leader with a background in technology, ideally from a Web 2.0 growth start-up. This is a unique role for someone to come in and play an essential role in building out efficient and transparent processes for our team and its interactions with the DAO",
+    "createdAt": "1642434600",
+    "lastUpdatedAt": "1654326000",
+    "isClosed": false,
+    "location": "Remote (Global)",
+    "salary":"80k"
+}

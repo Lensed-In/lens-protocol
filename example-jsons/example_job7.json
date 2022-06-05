@@ -1,0 +1,14 @@
+{   "version":"0.1.0",
+    "id": "7",
+    "title": "Cairo / Solidity Developer",
+    "imageURI": null,
+    "employer": "0x9fc9c2dfba3b6cf204c37a5f690619772b926e39",
+    "applicantsLimit": "2",
+    "organization": "Protocol",
+    "description": "ZKX is developing a decentralized derivatives protocol on Starknet, the upcoming ZK-rollup by Starkware. Offering an innovative permissionless protocol for perpetual swaps, ZKX will bring unique complex trading strategies to a simplified and fun trading environment",
+    "createdAt": "1642434600",
+    "lastUpdatedAt": "1654326000",
+    "isClosed": false,
+    "location": "Remote",
+    "salary":"100k-200k"
+}

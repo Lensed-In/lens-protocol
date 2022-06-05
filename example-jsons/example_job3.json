@@ -1,0 +1,14 @@
+{   "version":"0.1.0",
+    "id": "3",
+    "title": "FTX Hacker",
+    "imageURI": null,
+    "employer": "0xead9c93b79ae7c1591b1fb5323bd777e86e150d4",
+    "applicantsLimit": "3",
+    "organization": "",
+    "description": "",
+    "createdAt": "1642434600",
+    "lastUpdatedAt": "1654326000",
+    "isClosed": false,
+    "location": "Remote",
+    "salary":"140k-220k"
+}

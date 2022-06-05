@@ -1,0 +1,14 @@
+{   "version":"0.1.0",
+    "id": "4",
+    "title": "Node.js Developer",
+    "imageURI": null,
+    "employer": "0xe5904695748fe4a84b40b3fc79de2277660bd1d3",
+    "applicantsLimit": "1",
+    "organization": "Organization",
+    "description": "Bundlr makes web3 data storage accessible by making it as fast, easy, and reliable as traditional data storage. Our goal is to allow everyone both in and out of web3 to benefit from decentralized, permanent data storage. We are looking for a Node.js Developer to join our team. You will work directly with our Founder, CEO, and a team of developers to build out Bundlr’s platform and products. ",
+    "createdAt": "1642434600",
+    "lastUpdatedAt": "1654326000",
+    "isClosed": false,
+    "location": "Remote",
+    "salary":"100k-200k"
+}

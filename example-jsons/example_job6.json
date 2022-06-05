@@ -1,0 +1,14 @@
+{   "version":"0.1.0",
+    "id": "6",
+    "title": "Full Stack Platform Developer (Javascript)",
+    "imageURI": null,
+    "employer": "0x2ffd013aaa7b5a7da93336c2251075202b33fb2b",
+    "applicantsLimit": "2",
+    "organization": "Organization",
+    "description": "Our platform is designed to support third party application development (think application market places such as Github and Slack). We have a small but talented team that is focused on building the core product. We offer a very unique learning experience building a large scale system and getting exposure to software architecture and design. Our team has decades of experience building quality software in a variety of tech stacks, and we are happy to mentor our newest members.",
+    "createdAt": "1642434600",
+    "lastUpdatedAt": "1654326000",
+    "isClosed": false,
+    "location": "Remote USA / Canada",
+    "salary":"104k-140k"
+}
